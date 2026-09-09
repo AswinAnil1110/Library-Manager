@@ -101,9 +101,9 @@ class LibraryManager:
 
 books=LibraryManager()
 # books.post(title="Baddie",author="Aljin",category="Flirting",price=5500,published_date="2024-02-28")
-# books.get()
+books.get()
 # books.retrive(id=5)
 # books.delete(id=5)
 # print("After Deleting a Book...")
 # books.get()
-books.put(id=1,author="Anus")
+# books.put(id=1,author="Anu")
